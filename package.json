@@ -1,0 +1,12 @@
+{
+  "name": "nitro-smarthome",
+  "version": "1.0.0",
+  "description": "My nuxt server util nitro-smarthome",
+  "author": {
+    "name": "Aly Akbar Al Mutsana",
+    "url": "https://github.com/akbarsury"
+  },
+  "repository": "github:akbarsury/nuxt-nitro-smarthome",
+  "license": "Apache-2.0",
+  "main": "src/index.ts"
+}
